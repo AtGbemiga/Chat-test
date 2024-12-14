@@ -1,0 +1,80 @@
+2024-12-11T14:29:23.602Z [error]: Duplicate user: User already exists
+2024-12-11T14:32:09.554Z [error]: Duplicate user: User already exists
+2024-12-11T14:32:29.030Z [error]: Duplicate user: User already exists
+2024-12-11T14:35:24.249Z [error]: Invalid input data: [{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"email"},"message":"must have required property 'email'"}]
+2024-12-12T11:00:08.763Z [error]: Invalid input data: [{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"name"},"message":"must have required property 'name'"}]
+2024-12-12T11:03:08.007Z [error]: Invalid input data: [{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"name"},"message":"must have required property 'name'"}]
+2024-12-12T11:18:35.834Z [error]: Duplicate user: User already exists
+2024-12-12T11:19:31.258Z [error]: Duplicate user: User already exists
+2024-12-12T11:20:36.266Z [error]: Duplicate user: User already exists
+2024-12-12T11:24:24.125Z [error]: Duplicate user: User already exists
+2024-12-12T11:27:00.398Z [error]: Duplicate user: User already exists
+2024-12-12T13:30:52.908Z [error]: Invalid input data: [{"instancePath":"","schemaPath":"#/required","keyword":"required","params":{"missingProperty":"searchWord"},"message":"must have required property 'searchWord'"}]
+2024-12-12T13:33:05.572Z [error]: No resource: No user found
+2024-12-12T15:07:25.425Z [error]: No resource: No user found
+2024-12-12T15:07:52.961Z [error]: No resource: No user found
+2024-12-12T15:10:03.344Z [error]: No resource: No user found
+2024-12-12T15:10:03.721Z [error]: No resource: No user found
+2024-12-12T15:10:04.136Z [error]: No resource: No user found
+2024-12-12T15:10:04.202Z [error]: No resource: No user found
+2024-12-12T15:10:07.737Z [error]: No resource: No user found
+2024-12-12T15:10:07.916Z [error]: No resource: No user found
+2024-12-12T15:10:18.814Z [error]: No resource: No user found
+2024-12-12T15:10:19.110Z [error]: No resource: No user found
+2024-12-12T15:10:19.327Z [error]: No resource: No user found
+2024-12-12T15:10:19.533Z [error]: No resource: No user found
+2024-12-12T15:11:33.202Z [error]: No resource: No user found
+2024-12-12T15:11:33.394Z [error]: No resource: No user found
+2024-12-12T15:11:33.547Z [error]: No resource: No user found
+2024-12-12T15:11:33.698Z [error]: No resource: No user found
+2024-12-12T15:11:35.131Z [error]: No resource: No user found
+2024-12-12T15:11:35.216Z [error]: No resource: No user found
+2024-12-12T15:12:55.366Z [error]: No resource: No user found
+2024-12-12T15:12:55.541Z [error]: No resource: No user found
+2024-12-12T15:12:55.720Z [error]: No resource: No user found
+2024-12-12T15:12:55.908Z [error]: No resource: No user found
+2024-12-12T15:13:50.059Z [error]: No resource: No user found
+2024-12-12T15:13:50.230Z [error]: No resource: No user found
+2024-12-12T15:13:50.469Z [error]: No resource: No user found
+2024-12-12T15:13:50.617Z [error]: No resource: No user found
+2024-12-12T15:20:10.730Z [error]: No resource: No user found
+2024-12-12T15:20:10.967Z [error]: No resource: No user found
+2024-12-12T15:20:11.124Z [error]: No resource: No user found
+2024-12-12T15:20:11.329Z [error]: No resource: No user found
+2024-12-12T15:20:14.156Z [error]: No resource: No user found
+2024-12-12T15:20:14.202Z [error]: No resource: No user found
+2024-12-12T15:20:19.019Z [error]: No resource: No user found
+2024-12-12T15:26:49.369Z [error]: No resource: No user found
+2024-12-12T15:27:50.845Z [error]: No resource: No user found
+2024-12-12T15:27:58.392Z [error]: No resource: No user found
+2024-12-12T15:27:58.865Z [error]: No resource: No user found
+2024-12-12T15:28:00.055Z [error]: No resource: No user found
+2024-12-12T18:10:14.966Z [error]: No resource: No user found
+2024-12-13T12:11:46.532Z [error]: Resource not found: User not found
+2024-12-13T12:12:54.552Z [error]: Resource not found: User not found
+2024-12-13T12:39:13.218Z [error]: No resource: No user found
+2024-12-13T12:46:44.635Z [error]: No resource: No user found
+2024-12-13T12:47:36.075Z [error]: No resource: No user found
+2024-12-13T12:48:13.103Z [error]: Resource not found: User not found
+2024-12-13T12:51:29.797Z [error]: Resource not found: User not found
+2024-12-13T12:51:47.374Z [error]: Resource not found: User not found
+2024-12-14T14:38:38.797Z [error]: No resource: No user found
+2024-12-14T14:50:05.965Z [error]: No resource: No user found
+2024-12-14T15:18:08.317Z [error]: Resource not found: User not found
+2024-12-14T15:18:08.415Z [error]: Resource not found: User not found
+2024-12-14T15:18:26.007Z [error]: Resource not found: User not found
+2024-12-14T15:18:39.975Z [error]: Resource not found: User not found
+2024-12-14T15:19:41.871Z [error]: Resource not found: User not found
+2024-12-14T15:19:41.911Z [error]: Resource not found: User not found
+2024-12-14T15:21:24.758Z [error]: Resource not found: User not found
+2024-12-14T15:21:24.782Z [error]: Resource not found: User not found
+2024-12-14T15:21:41.070Z [error]: Resource not found: User not found
+2024-12-14T15:22:57.968Z [error]: Resource not found: User not found
+2024-12-14T15:22:58.006Z [error]: Resource not found: User not found
+2024-12-14T15:26:32.489Z [error]: No resource: No user found
+2024-12-14T15:35:06.555Z [error]: Resource not found: User not found
+2024-12-14T15:35:06.717Z [error]: Resource not found: User not found
+2024-12-14T15:35:17.434Z [error]: Resource not found: User not found
+2024-12-14T15:36:52.957Z [error]: Resource not found: User not found
+2024-12-14T15:36:52.984Z [error]: Resource not found: User not found
+2024-12-14T15:36:57.515Z [error]: Resource not found: User not found
