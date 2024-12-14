@@ -46,4 +46,4 @@ Troubleshooting
 Database not setting up successfully
 - Comment out the database property in the dal.ts mysql.createPool method then run npm run dev. After which the database creates. Then uncomment the database property
 
-Contact: Oscar Valdes oscar94valdes@gmail.com
+Contact: gbatolagbe@gmail.com
